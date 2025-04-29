@@ -1,0 +1,8 @@
+rootProject.name = "lab4recuperare"
+include 'AtletismClient'
+include 'AtletismModel'
+include 'AtletismPersistance'
+include 'AtletismServices'
+include 'AtletismServer'
+include 'AtletismNetwork'
+
